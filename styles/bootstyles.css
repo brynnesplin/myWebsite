@@ -1,0 +1,130 @@
+html{
+    height: 100%;
+}
+body{
+    background-image: url(../images/timp.jpg);
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #f5e1c5;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    text-align: center;
+
+}
+.common{
+    position: absolute;
+}
+.header{
+    background-color: #2f170ff1;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 40px;
+    padding-top: 20px;
+    padding-right: 20px;
+    border:none;
+
+}
+.header-text{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: #f5e1c5;
+    font-size: 13px;
+    text-align: right;
+    text-transform: uppercase;
+}
+a{
+    text-decoration: none;
+    color: #f5e1c5;
+}
+a:hover{
+    color: #f5e1c5b4;
+}
+a:visited{
+    color: #f5e1c5;
+}
+.title{
+    top: 60px;
+    right: 10px;
+    left: 10px;
+}
+.main-body{
+    top: 400px;
+    right: 10px;
+    left: 10px;
+}
+.behind-graph{
+    background-color: #e6a856e5;
+    right: 50px;
+    height: 1080px;
+    left: 50px;
+   
+}
+.caption{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 10pt;
+    margin: 10;
+    text-align: center;
+    color: #f5e1c5;
+    font-style: italic;
+}
+.tableau-1{
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    right: 52%;
+
+}
+.tableau-2{
+    position: absolute;
+    top: 40px;
+    right: 40px;
+    left: 52%;
+
+}
+.tableau-3{
+    position: absolute;
+    top: 500px;
+    right: 0px;
+    left: 0px;
+}
+.beneath-graph{
+    position: absolute;
+    top: 975px;
+    padding: 45px;
+}
+.underline{
+    text-decoration: underline;
+}
+.bottom{
+    bottom: 0px;
+    height: 10px;
+}
+.footer{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    height: 25px;
+    background-color: #f5e1c5b4;
+}
+.footer-text{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 10px;
+    font-style: italic;
+    color: #2F170F;
+    padding-top: 12px;
+    text-align: center;
+}

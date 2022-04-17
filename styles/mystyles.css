@@ -1,0 +1,38 @@
+
+body{
+    background-image: url('../images/timp2.jpg')
+}
+#website-title{
+    font-weight:bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.pre-heading{
+    color:#f5e1c5!important;
+    font-weight: 400!important;
+}
+.italics{
+    font-style:italic;
+}
+.bold{
+    font-weight:bold;
+}
+.sans-serif{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.uppercase{
+    text-transform:uppercase;
+}
+.green{
+    color:rgb(2, 97, 2)
+}
+.align-right{
+    text-align:right;
+    padding-right: 10px;
+}
+.align-left{
+    text-align:left;
+    padding-left: 10px;
+}
+ol{
+    text-align: left;
+}
